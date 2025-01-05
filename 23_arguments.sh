@@ -3,6 +3,7 @@
 
 
 echo "Script name is $0"
+echo "Name of script is ${0}"
 echo "this is first argument $1"
 echo "this is second argument $2"
 
